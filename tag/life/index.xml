@@ -5,12 +5,36 @@
     <link>https://example.com/tag/life/</link>
       <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>life</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>life</title>
       <link>https://example.com/tag/life/</link>
     </image>
+    
+    <item>
+      <title>Third week was as boring as always, but...</title>
+      <link>https://example.com/post/3rd-week/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/3rd-week/</guid>
+      <description>&lt;h2 id=&#34;nothing-to-tell&#34;&gt;Nothing to tell&lt;/h2&gt;
+&lt;p&gt;So, this week i did what i usually do: went to uni, did my homework and tried not to overlay deadlines. Usual stuff. But this time something really cool happend. Me and my dad ordered new ssd, keyboard and accumulator for my laptop which is dying btw and also my sister won 1st place in swimming tournament. We celebrated it with sushi.
+I am excited to upgrade my laptop! Thanks for reading. That&amp;rsquo;s it for now, bye.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций.</title>
+      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8./</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8./</guid>
+      <description>&lt;h2 id=&#34;с-чего-начать&#34;&gt;С чего начать?&lt;/h2&gt;
+&lt;p&gt;Первое, что мы делаем, это скачиваем powerpoint или гуглим его веб-версию. Там мы будем создавать наши презентаци. Нажимаем пустая презентация. Нам высвечивается пустой заголовочный файл, в котором мы можем назвать тему презетации и, кто ее делает. Далее для создания новых слайдов нажимаем слайды -&amp;gt; создать слайд. Тут мы уже начинаем раскрывать тему и можем вставлять картинки. Под конец вашей презентации создаем новый слайд и в его настройках в макете выбираем титульный слайд и пишем &amp;ldquo;Спасибо за внимание.&amp;rdquo;.
+Дам еще пару советов по содержанию презентации. Обычно, презентация вам нужна, чтобы дополнить свое устное выступление, поэтому в презентации не должен быть слово в слово написан тот текст, который вы читаете. В нем может быть выписана оснавная мысль параграфа и картинка, которая может помочь больше понять о чем идет речь.&lt;/p&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Это минимальный набор знаний, который вам нужен, чтобы суметь создать презентацию, например, для своего докалад. Спасибо за внимание!)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>This week was as boring as always</title>
