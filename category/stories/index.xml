@@ -5,12 +5,25 @@
     <link>https://example.com/category/stories/</link>
       <atom:link href="https://example.com/category/stories/index.xml" rel="self" type="application/rss+xml" />
     <description>Stories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stories</title>
       <link>https://example.com/category/stories/</link>
     </image>
+    
+    <item>
+      <title>4th week was better than previous so far.</title>
+      <link>https://example.com/post/4th-week/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4th-week/</guid>
+      <description>&lt;h2 id=&#34;how-was-it&#34;&gt;How was it?&lt;/h2&gt;
+&lt;p&gt;This week i didn&amp;rsquo;t do anything new, still went to uni, did homework and so on, but it felt better and not so routinely. And i think i know why.&lt;/p&gt;
+&lt;p&gt;In the previous post about my week i told that i got new components for my pc (ssd, battery and keyboard). So, i replaced all the old components with the new ones in my laptop and using it was amazing so far. With a ssd instead of hdd every operation feels extremely fast, for example, it usually took from 10 to 15 minutes for my laptop to turn on and now it does it in 15 seconds!!! This feels almost unreal how much progress it is.&lt;/p&gt;
+&lt;p&gt;So, ye, i think it is the reason why this week was better than the other ones.&lt;/p&gt;
+&lt;p&gt;Thanks for reading. That&amp;rsquo;s it for now, bye.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Third week was as boring as always, but...</title>
