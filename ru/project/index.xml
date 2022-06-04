@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Академик</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shmakovmp.github.io/ru/project/</link>
+      <atom:link href="https://shmakovmp.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shmakovmp.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://shmakovmp.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Bunnyhop для cs:go &#34;no fantasy&#34;</title>
-      <link>https://example.com/ru/project/bunnyhop-software-for-csgo-no-fantasy/</link>
+      <link>https://shmakovmp.github.io/ru/project/bunnyhop-software-for-csgo-no-fantasy/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/bunnyhop-software-for-csgo-no-fantasy/</guid>
+      <guid>https://shmakovmp.github.io/ru/project/bunnyhop-software-for-csgo-no-fantasy/</guid>
       <description>&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;
 &lt;p&gt;В компьютерных играх, игроки часто пытаются добиться преимущества над противником легальными и нелегальными (в рамках игры) путями. Нелегальными считаются читы - программы меняющие файлы игры и дающие нечестное преимущество игроку. Но, многие считают, что если подобная программа не блокируется игровыми античитом (программа, которая банит за использование читов), то такие утилиты легальны. И баннихоп как раз и является такой утилитой.&lt;/p&gt;
 &lt;h1 id=&#34;что-такое-баннихоп&#34;&gt;Что такое баннихоп?&lt;/h1&gt;

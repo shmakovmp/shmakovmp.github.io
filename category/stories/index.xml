@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stories | Academic</title>
-    <link>https://example.com/category/stories/</link>
-      <atom:link href="https://example.com/category/stories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shmakovmp.github.io/category/stories/</link>
+      <atom:link href="https://shmakovmp.github.io/category/stories/index.xml" rel="self" type="application/rss+xml" />
     <description>Stories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shmakovmp.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stories</title>
-      <link>https://example.com/category/stories/</link>
+      <link>https://shmakovmp.github.io/category/stories/</link>
     </image>
     
     <item>
       <title>4th week was better than previous so far.</title>
-      <link>https://example.com/post/4th-week/</link>
+      <link>https://shmakovmp.github.io/post/4th-week/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/4th-week/</guid>
+      <guid>https://shmakovmp.github.io/post/4th-week/</guid>
       <description>&lt;h2 id=&#34;how-was-it&#34;&gt;How was it?&lt;/h2&gt;
 &lt;p&gt;This week i didn&amp;rsquo;t do anything new, still went to uni, did homework and so on, but it felt better and not so routinely. And i think i know why.&lt;/p&gt;
 &lt;p&gt;In the previous post about my week i told that i got new components for my pc (ssd, battery and keyboard). So, i replaced all the old components with the new ones in my laptop and using it was amazing so far. With a ssd instead of hdd every operation feels extremely fast, for example, it usually took from 10 to 15 minutes for my laptop to turn on and now it does it in 15 seconds!!! This feels almost unreal how much progress it is.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Third week was as boring as always, but...</title>
-      <link>https://example.com/post/3rd-week/</link>
+      <link>https://shmakovmp.github.io/post/3rd-week/</link>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/3rd-week/</guid>
+      <guid>https://shmakovmp.github.io/post/3rd-week/</guid>
       <description>&lt;h2 id=&#34;nothing-to-tell&#34;&gt;Nothing to tell&lt;/h2&gt;
 &lt;p&gt;So, this week i did what i usually do: went to uni, did my homework and tried not to overlay deadlines. Usual stuff. But this time something really cool happend. Me and my dad ordered new ssd, keyboard and accumulator for my laptop which is dying btw and also my sister won 1st place in swimming tournament. We celebrated it with sushi.
 I am excited to upgrade my laptop! Thanks for reading. That&amp;rsquo;s it for now, bye.&lt;/p&gt;
@@ -38,9 +38,9 @@ I am excited to upgrade my laptop! Thanks for reading. That&amp;rsquo;s it for n
     
     <item>
       <title>Создание презентаций.</title>
-      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8./</link>
+      <link>https://shmakovmp.github.io/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8./</link>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8./</guid>
+      <guid>https://shmakovmp.github.io/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8./</guid>
       <description>&lt;h2 id=&#34;с-чего-начать&#34;&gt;С чего начать?&lt;/h2&gt;
 &lt;p&gt;Первое, что мы делаем, это скачиваем powerpoint или гуглим его веб-версию. Там мы будем создавать наши презентаци. Нажимаем пустая презентация. Нам высвечивается пустой заголовочный файл, в котором мы можем назвать тему презетации и, кто ее делает. Далее для создания новых слайдов нажимаем слайды -&amp;gt; создать слайд. Тут мы уже начинаем раскрывать тему и можем вставлять картинки. Под конец вашей презентации создаем новый слайд и в его настройках в макете выбираем титульный слайд и пишем &amp;ldquo;Спасибо за внимание.&amp;rdquo;.
 Дам еще пару советов по содержанию презентации. Обычно, презентация вам нужна, чтобы дополнить свое устное выступление, поэтому в презентации не должен быть слово в слово написан тот текст, который вы читаете. В нем может быть выписана оснавная мысль параграфа и картинка, которая может помочь больше понять о чем идет речь.&lt;/p&gt;
@@ -51,9 +51,9 @@ I am excited to upgrade my laptop! Thanks for reading. That&amp;rsquo;s it for n
     
     <item>
       <title>This week was as boring as always</title>
-      <link>https://example.com/post/my-another-week/</link>
+      <link>https://shmakovmp.github.io/post/my-another-week/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my-another-week/</guid>
+      <guid>https://shmakovmp.github.io/post/my-another-week/</guid>
       <description>&lt;h2 id=&#34;nothing-to-tell&#34;&gt;Nothing to tell&lt;/h2&gt;
 &lt;p&gt;This week the only difference from the previous one was that we bought my mom and father new phones. I helped them to choose the best ones for their prices. There weren&amp;rsquo;t any other cool events so that is all.
 Thank you for reading this, bye for now.&lt;/p&gt;
@@ -62,9 +62,9 @@ Thank you for reading this, bye for now.&lt;/p&gt;
     
     <item>
       <title>Легковесные языки разметки..</title>
-      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown./</link>
+      <link>https://shmakovmp.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown./</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown./</guid>
+      <guid>https://shmakovmp.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown./</guid>
       <description>&lt;h2 id=&#34;легковесные-языки-разметки&#34;&gt;Легковесные языки разметки.&lt;/h2&gt;
 &lt;p&gt;Как вы, вероятно, видели из прошлых статей, здесь, на , мы фанаты Markdown . Изучая этот простой и интуитивно понятный формат, вы сможете легко создавать привлекательные результаты. От PDF до веб-страниц ваш простой текстовый файл становится сложным документом.
 Но Markdown не единственная игра в городе. Существует ряд других так называемых облегченных языков разметки, похожих на Markdown, но с различными наборами функций. Одним из них является Asciidoc . Если вам нравится Markdown, но вы ищете немного больше под капотом, стоит подумать. Вот несколько причин, почему.&lt;/p&gt;
@@ -126,9 +126,9 @@ Thank you for reading this, bye for now.&lt;/p&gt;
     
     <item>
       <title>This week was as boring as always</title>
-      <link>https://example.com/post/my-week/</link>
+      <link>https://shmakovmp.github.io/post/my-week/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my-week/</guid>
+      <guid>https://shmakovmp.github.io/post/my-week/</guid>
       <description>&lt;h2 id=&#34;nothing-to-tell&#34;&gt;Nothing to tell&lt;/h2&gt;
 &lt;p&gt;This week i didn&amp;rsquo;t do anything new. Just sitting at home, doing homework and in free time playing some games.
 Usually the only day when i have more time to chill is monday. It is the day when i check others&amp;rsquo; labs and it is not so time consuming. In other days the only thing i usually do is labs and homeworks for other subjects.&lt;/p&gt;
@@ -138,9 +138,9 @@ Usually the only day when i have more time to chill is monday. It is the day whe
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git./</link>
+      <link>https://shmakovmp.github.io/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git./</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git./</guid>
+      <guid>https://shmakovmp.github.io/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git./</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Эта глава о том, как начать работу с Git. Вначале изучим основы систем контроля версий, затем перейдём к тому, как запустить Git на вашей ОС и окончательно настроить для работы. В конце главы вы уже будете знать, что такое Git и почему им следует пользоваться, а также получите окончательно настроенную для работы систему.&lt;/p&gt;
 &lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
