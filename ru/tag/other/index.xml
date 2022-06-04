@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Академик</title>
+    <link>https://example.com/ru/tag/other/</link>
+      <atom:link href="https://example.com/ru/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Other</title>
+      <link>https://example.com/ru/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Bunnyhop для cs:go &#34;no fantasy&#34;</title>
+      <link>https://example.com/ru/project/bunnyhop-software-for-csgo-no-fantasy/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/bunnyhop-software-for-csgo-no-fantasy/</guid>
+      <description>&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;
+&lt;p&gt;В компьютерных играх, игроки часто пытаются добиться преимущества над противником легальными и нелегальными (в рамках игры) путями. Нелегальными считаются читы - программы меняющие файлы игры и дающие нечестное преимущество игроку. Но, многие считают, что если подобная программа не блокируется игровыми античитом (программа, которая банит за использование читов), то такие утилиты легальны. И баннихоп как раз и является такой утилитой.&lt;/p&gt;
+&lt;h1 id=&#34;что-такое-баннихоп&#34;&gt;Что такое баннихоп?&lt;/h1&gt;
+&lt;p&gt;В игре cs:go есть такая механика, когда игрок прыгает на ходу без остановки из стороны в сторону, его скорость увеличивается. Такую технику называют баннихоп. Без помощи программ, помогающих не потерять набранную скорость подобной распрыжкой, использовать баннихоп в обычной игре очень трудно. Легко потерять скорость и вовсе испортить этим свое положение в игре.&lt;/p&gt;
+&lt;h1 id=&#34;о-программе&#34;&gt;О программе&lt;/h1&gt;
+&lt;p&gt;Наша программа, помогает поддерживать скорость и иметь преимущество над противником. Также она не блокируется античитом, так как не меняет память игры, а только читает ее. Соответственно, можно считать ее полностью легальной к использованию и не бояться, что, играя с ней, ты можешь получить бан.&lt;/p&gt;
+&lt;h1 id=&#34;что-пошло-не-так&#34;&gt;Что пошло не так?&lt;/h1&gt;
+&lt;p&gt;Мы решили назвать ее &amp;ldquo;no fantasy&amp;rdquo;. Мы посчитали, что это довольно оригинальное название, которое легко запомнить. Долго трудились над разработкой этого проекта, но потом на меня и моего партнера легло много различных обязанностей в остальных сферах жизни, из-за чего пришлось закрыть проект.&lt;/p&gt;
+&lt;p&gt;Вот такая история.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
